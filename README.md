@@ -1,4 +1,5 @@
 College Website - Web Technology Lab Experiment
+
 -> This is a simple college website project created as part of the Web Technology Lab.
 It demonstrates the use of HTML5 and CSS (Flexbox) to design a compact and well-structured static webpage.
 
@@ -26,5 +27,4 @@ It demonstrates the use of HTML5 and CSS (Flexbox) to design a compact and well-
 👨‍💻 Author
 
 Sarthak Kalyani
-
 B.Tech CSE, GL Bajaj Institute of Technology & Management
