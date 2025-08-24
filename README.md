@@ -17,11 +17,13 @@ It demonstrates the use of HTML5 and CSS (Flexbox) to design a compact and well-
 3. Markdown (README) – for project documentation
 
 📂 Project Structure
-├── index.html              # Main HTML file
-├── gl-bajaj-logo.png       # College logo
-├── Academic-Calender-2025-26-OddSem.pdf   # Academic calendar (linked in site)
-└── README.md               # Project documentation
+
+├── index.html              
+├── gl-bajaj-logo.png       
+├── Academic-Calender-2025-26-OddSem.pdf   
+└── README.md               
 
 👨‍💻 Author
+
 Sarthak Kalyani
 B.Tech CSE, GL Bajaj Institute of Technology & Management
